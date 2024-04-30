@@ -6,4 +6,9 @@ __Scheme (Racket)__
 [Racket Docs](https://docs.racket-lang.org)
 
 ## Prezentace
-[Úvod](cviceni04.pdf)
+
+1. [Úvod](cviceni04.pdf)
+
+2. [Seznamy](cviceni05.pdf)
+
+3. [Struktury](cviceni06.pdf)
